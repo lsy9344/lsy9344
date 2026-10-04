@@ -1,16 +1,40 @@
-## Hi there 👋
+# Lee Noah
 
-<!--
-**lsy9344/lsy9344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer building business applications, customer products and workflow automation.**
 
-Here are some ideas to get you started:
+I develop software for real operating needs: who uses a system, how records move between teams, and what happens when a request fails or data is incomplete.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also operate a photo-studio brand that generated **KRW 300 million in revenue in 2025** and has grown to **14 locations**. My in-house products include unattended photo workflows, photo/preset applications, customer editing tools and booking communications.
+
+Since 2025, my development portfolio has expanded across web, Windows desktop, Android, ERP/CRM, data tools and service integrations.
+
+## Selected software
+
+| Project | What I built | Engineering focus |
+|---|---|---|
+| [Boothy](https://github.com/lsy9344/Boothy) | Camera-connected photo-studio desktop workflows | React, TypeScript, Tauri/Rust, hardware/software coordination |
+| [CutEditor](https://github.com/lsy9344/CutEditor) | Browser photo layouts, frames, text, stickers and export | Canvas interaction, local image processing, touch and save behavior |
+| [ERP Fish](https://github.com/lsy9344/erp_fish) | Multi-branch sales, inventory and financial workflows | PostgreSQL, transaction history, FIFO completeness, controlled imports |
+| [Marketplace Data Collector](https://github.com/lsy9344/sft_gmarket_crawl_mgmode) | Resumable seller-data collection and structured export | Python, SQLite checkpoints, recovery paths, operator controls |
+
+My broader portfolio includes commerce/CRM platforms, review migration, meal enrollment and settlement, customer fulfillment, messaging tools and engineering utilities. Some business systems are kept private; their workflows can be discussed through appropriate case studies.
+
+[Download my resume](./Lee_Noah_Resume_EN.pdf) · [Read selected case studies](./Lee_Noah_Case_Studies_EN.pdf)
+
+## How I approach development
+
+- Translate the operating process into clear screens, data models and acceptance criteria.
+- Keep permissions, data completeness and historical records visible.
+- Design for duplicate requests, network failures and interrupted background work.
+- Test sensitive workflows and provide a clear path for review and recovery.
+
+## Technical range
+
+**Web:** TypeScript, React, Next.js, Node.js/NestJS.  
+**Backend and data:** Python, FastAPI, PostgreSQL, Prisma, SQLite.  
+**Desktop and mobile:** Tauri/Rust, C#/.NET/WPF, Kotlin/Jetpack Compose.  
+**Integrations and delivery:** AWS, Google Cloud, Cloudflare, Docker, Playwright.
+
+Earlier in my career, I worked on automotive robot and vision-system integration at Doolim-Yaskawa. That background informs how I handle system boundaries and failure cases; my software portfolio began after leaving employment in 2025.
+
+**Contact:** progression.two@gmail.com
